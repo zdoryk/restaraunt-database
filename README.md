@@ -3,7 +3,7 @@
 ### Database system for restaraunt
 
 This project was made at the end of 2021 while i was learning "Advanced database systems". I got 100% for this project.<br/>
-This project was written with polish language - so all documentation and comments in code are written on polish.
+This project was written in polish language - so all documentation and comments in code are written on polish.
 
 ### Requirements for 60% grade:
 - Define a topic for database system. 
